@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Dazzling&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&customColorList=0,2,2,5,30&height=100&section=header&text=Dazzling&fontSize=100)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/ever0108)
  <img src="http://mazandi.herokuapp.com/api?handle=ever0108&theme=warm"/>
  ![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula)
