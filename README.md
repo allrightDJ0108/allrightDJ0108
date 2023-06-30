@@ -1,7 +1,7 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,5,30&height=100&section=header&text=Dazzling&fontSize=100&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,5,30&height=200&section=header&text=Dazzling&fontSize=100&fontColor=d6ace6)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/ever0108)
-![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula&height=200)
+![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula&line_height=20)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,5,30&height=200&section=footer)
  <!-- 백준 잔디 현황 -->
  <!-- <img src="http://mazandi.herokuapp.com/api?handle=ever0108&theme=warm"/> -->
