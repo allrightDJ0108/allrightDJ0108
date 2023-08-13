@@ -43,11 +43,14 @@
 
 <div align="center">
 
-  <img src="https://mazassumnida.wtf/api/generate_badge?boj=ever0108"/></a>
+<a>  
+ <img src="https://mazassumnida.wtf/api/generate_badge?boj=ever0108"/>
+</a>
 
 </div>
-
+<!--
  ![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula&line_height=20&hide_border=true)
+ -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,5,30&height=200&section=footer)
 
