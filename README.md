@@ -36,6 +36,9 @@
   <br>
  
 </div>
+<div align=center>
+ <h3>📚Stats📚</h3>
+</div>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)
