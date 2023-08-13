@@ -36,10 +36,10 @@
   <br>
  
 </div>
-<div align=center>
+<div align="center">
  <h3>📚Stats📚</h3>
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)
-![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula&line_height=20&hide_border=true)
+ ![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula&line_height=20&hide_border=true)
 
 </div>
 
