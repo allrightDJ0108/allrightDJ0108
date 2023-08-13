@@ -42,7 +42,9 @@
 </div>
 
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
+
 </div>
 
  ![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula&line_height=20&hide_border=true)
