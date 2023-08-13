@@ -8,7 +8,7 @@
  <h3>Welcome👏🏻</h3>
  I'm Back-End Engineer
 
- <h3>Technology Stack📚</h3>
+ <h3>SKILL📚</h3>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -38,10 +38,12 @@
 </div>
 <div align="center">
  <h3>📚Stats📚</h3>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)
- ![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula&line_height=20&hide_border=true)
-
+ <img src = "[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)">
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)
+
+ ![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula&line_height=20&hide_border=true)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,5,30&height=200&section=footer)
 
