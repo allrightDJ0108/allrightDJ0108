@@ -1,9 +1,16 @@
 <div align=center>
- <h1>Welcome👏🏻</h1>
- <h2>I'm Back-End Engineer</h2>
-</div>div>
+ <h3>Welcome👏🏻</h3>
+ <h3>I'm Back-End Engineer</h3>
+</div>
 
-📚Technology Stack📚
+<div align=center>
+ <h3>📚Technology Stack📚</h3>
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+ 
+</div>
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,5,30&height=200&section=header&text=Dazzling&fontSize=100&fontColor=d6ace6)
