@@ -41,7 +41,9 @@
  <img src = "[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)">
 </div>
 
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)
+</div>
 
  ![allrightDJ0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=allrightDJ0108&show_icons=true&theme=dracula&line_height=20&hide_border=true)
 
