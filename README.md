@@ -41,6 +41,7 @@
  <h3>📚Stats📚</h3>
 <!-- <img src = "[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)">-->
  <img src = "[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ever0108)](https://solved.ac/ever0108)">
+ <img src = "[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ever0108)](https://solved.ac/ever0108/)">
  
 
 
