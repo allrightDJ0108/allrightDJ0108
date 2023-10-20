@@ -39,19 +39,14 @@
 </div>
 <div align="center">
  <h3>📚Stats📚</h3>
-<!-- <img src = "[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)">-->
- <img src = "[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ever0108)](https://solved.ac/ever0108/)">
- 
-
-
-
 </div>
 
 <div align="center">
 
-<a href = "https://solved.ac/profile/ever0108">  
- <img src="https://mazassumnida.wtf/api/generate_badge?boj=ever0108"/>
-</a>
+ <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ever0108)](https://solved.ac/profile/ever0108)-->
+ <a href = "https://solved.ac/profile/ever0108">  
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ever0108"/>
+ </a>
 
 </div>
 <!--
