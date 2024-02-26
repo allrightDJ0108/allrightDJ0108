@@ -1,9 +1,9 @@
 ## 🤞 안녕하세요! 저는 최다정입니다 :)
 <p>
-<!--   <a href="https://allrightdj0108.github.io/" target="_blank"><img src="https://img.shields.io/badge/About_Me-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
-  <a href="https://da-zzling.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/My_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dajeong-choe-최다정-902bb829b/" target="_blank"><img src="https://img.shields.io/badge/Dajeong-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:hers010801@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hers010801@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!--   <a href="https://allrightdj0108.github.io/" target="_blank"><img src="https://img.shields.io/badge/About_Me-FFB3C2?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
+  <a href="https://da-zzling.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/My_Blog-FFCFA3?style=flat-square&logo=microdotblog&logoColor=white"/></a>
+  <a href="mailto:hers010801@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hers010801-FFE6AD?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dajeong-choe-최다정-902bb829b/" target="_blank"><img src="https://img.shields.io/badge/Dajeong-A0D0F6?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <br>
@@ -107,7 +107,7 @@
     - InteliJ, Eclipse, DBeaver, SQL Developer
 
 - Collaboration Tools
-    - Jira, Slack, Notion, Figma
+    - Jira, Slack, Notion, Figma, Canva, ERD Cloud
 
 - Version Control Systems
     - GitHub, Svn
