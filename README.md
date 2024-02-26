@@ -55,7 +55,8 @@
 
 ## Stacks 기술 스택
 
-### Languages & Frameworks
+<details>
+<summary><h3>Languages & Frameworks</h3></summary>
 <p>
 
 - Programming Languages
@@ -66,10 +67,11 @@
   - JPA, MyBatis
 
 </p>
+</details>
 
-<br>
 
-### Infrastructures
+<details>
+<summary><h3>Infrastructures</h3></summary>
 <p>
 
 - Cloud
@@ -83,11 +85,11 @@
   - Docker, Ubuntu
 
 </p>
+</details>
 
-<br>
 
-
-### Testing & Observability
+<details>
+<summary><h3>Testing & Observability</h3></summary>
 <p>
 
 - Testing
@@ -96,11 +98,12 @@
    - Elastic Stack
 
 </p>
+</details>
 
-<br>
 
 
-### Tool
+<details>
+<summary><h3>Tool</h3></summary>
 <p>
 
 - Develop Tools
@@ -113,4 +116,5 @@
     - GitHub, Svn
 
 </p>
+</details>
 
