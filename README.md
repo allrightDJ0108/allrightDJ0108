@@ -11,7 +11,8 @@
 ## Project 프로젝트
 <p>
 <li> <a href="https://github.com/KEA-DoKebi"> DalKom.shop </a> &nbsp; <sub> 2024.01 - 2024.02 (PM) </sub> </li>
-<li> <a href="https://github.com/KEA-Allways"> Allways Blog </a> &nbsp; <sub> 2023.09 - 2023.12 </sub> </li>
+<li> <a href="https://github.com/allrightDJ0108/KEA-Blog-Service"> Allways Blog </a> &nbsp; <sub> 2023.09 - 2023.12 </sub> </li>
+
 </p>
 
 <br>
