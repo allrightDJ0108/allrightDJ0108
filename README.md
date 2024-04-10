@@ -66,6 +66,9 @@
 
 ## 📜 Stacks
 
+<details>
+<summary><h3>Stacks Detail</h3></summary>
+
 | Category               | Subcategory            | Details                                           |
 |------------------------|------------------------|---------------------------------------------------|
 | Languages & Frameworks | Programming Languages  | Java                                              |
@@ -73,15 +76,15 @@
 |                        | Data Access            | JPA, MyBatis                                     |
 | Infrastructures        | Cloud                  | AWS, KC                                           |
 |                        | CI/CD                  | Github Actions, Jenkins                           |
-|                        | Databases              | PostgreSQL, Oracle, MySQL, MSSQL                  |
-|                        |                        | Elasticsearch, MongoDB                            |
+|                        | Databases - RDBMS      | PostgreSQL, Oracle, MySQL, MsSQL                  |
+|                        | Databases - NoSQL      | Elasticsearch, MongoDB                            |
 |                        | Etc                    | Docker, Ubuntu                                    |
 | Testing & Observability| Testing                | JUnit5                                            |
 |                        | Observability          | Elastic Stack                                     |
 | Tools                  | Development Tools      | IntelliJ, Eclipse, DBeaver, SQL Developer         |
 |                        | Collaboration Tools    | Jira, Slack, Notion, Figma, Canva, ERD Cloud      |
 |                        | Version Control        | GitHub, SVN                                       |
-
+</details>
 
 
 <!--
