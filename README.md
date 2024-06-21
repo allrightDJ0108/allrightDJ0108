@@ -56,6 +56,7 @@
 
 ## :briefcase: Experience
 <p>
+  <li> Woori FIS / SW Engineer <sub> 2024.05 - </sub>  </li>
 <li> Syworks / Web Developer <sub> 2021.08 - 2023.06 </sub>  </li>
 <li> B2en / Web Developer <sub> 2020.08 - 2020.12 </sub>  </li>
 </p>
