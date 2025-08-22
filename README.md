@@ -10,9 +10,9 @@
 
 ## 💻 Project 
 <p>
-<h3> Group Data Platform &nbsp; <sub> 2024.06 - 2024.12 | <em>Woori FIS</em> </sub></h3>
+<h3><a href=""> Group Data Platform </a> &nbsp; <sub> 2024.06 - 2024.12 | <em>Woori FIS</em> </sub></h3>
 <h3><a href="https://github.com/allrightDJ0108/DalKom.Shop"> DalKom.shop</a> &nbsp; <sub> 2024.01 - 2024.02 (PM) | <em>KEA SW Academy</em> </sub></h3>
-<h3> <a href="https://github.com/allrightDJ0108/KEA-Blog-Service"> Allways Blog </a> &nbsp; <sub> 2023.09 - 2023.12 | <em>KEA SW Academy</em> </sub></h3>
+<h3><a href="https://github.com/allrightDJ0108/KEA-Blog-Service"> Allways Blog </a> &nbsp; <sub> 2023.09 - 2023.12 | <em>KEA SW Academy</em> </sub></h3>
 
 </p>
 
@@ -30,9 +30,9 @@
 
 ## :trophy: Award 
 <p>
-<li> 1st Place in AWS GameDay for Financial Services <sub> July 2024 </sub> </li>
-<li> Outstanding Student at KEA SW Academy <sub> February 2024 </sub>  </li>
-<li> 1st Place in AWS JAM <sub> November 2023 </sub> </li>
+<li> 1st Place in AWS GameDay for Financial Services <sub> 2024.07 </sub> </li>
+<li> Outstanding Student at KEA SW Academy <sub> 2024.02 </sub>  </li>
+<li> 1st Place in AWS JAM <sub> 2023.11 </sub> </li>
 </p>
 
 <br>
@@ -40,8 +40,10 @@
 
 ## :books: Certificate 
 <p>
-<li> ADsP : Advanced Data Analytics Semi-Professional <sub> 2024.11 </sub> </li>
- <li> <a href="https://www.credly.com/badges/da4df2c7-1d1b-4859-8d6e-9c4832982eac/public_url" style="color: black"> AWS Certified Solutions Architect - Associate<sub> 2024.01 </sub> </li>
+  <li> ADsP : Advanced Data Analytics Semi-Professional <sub> 2024.11 </sub> </li>
+  <li> AWS Certified Solutions Architect - Associate<sub> 2024.01 </sub> 
+   <a href="https://www.credly.com/badges/da4df2c7-1d1b-4859-8d6e-9c4832982eac/public_url">:link: </a>
+  </li>
  <li> SQLD : SQL Developer <sub> 2023.10 </sub> </li>
  <li> Engineer Information Processing <sub> 2023.07 </sub> </li>
 </p>
@@ -52,14 +54,14 @@
 <p>
 <li> Kakao Enterprise SW Academy <sub> 2023.09 - 2024.02 </sub>  </li>
 <li> LET Speech Club <sub> 2018.01 - 2019.01 </sub> </li>
-<li> Online MoGakCo Study <sub> 2024.02 - NOW </sub> </li>
+<li> Online MoGakCo Study <sub> 2024.02 - 2024.04 </sub> </li>
 </p>
 
 <br>
 
 ## :briefcase: Experience
 <p>
-<li> Woori FIS / SW Engineer <sub> 2024.05 - </sub>  </li>
+<li> Woori FIS / SW Engineer <sub> 2024.05 - NOW </sub>  </li>
 <li> Syworks / Web Developer <sub> 2021.08 - 2023.06 </sub>  </li>
 <li> B2en / Web Developer <sub> 2020.08 - 2020.12 </sub>  </li>
 </p>
