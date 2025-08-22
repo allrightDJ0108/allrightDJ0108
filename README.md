@@ -50,7 +50,7 @@
 
 ## :runner: Activity 
 <p>
-<li> KEA SW Academy <sub> 2023.09 - 2024.02 </sub>  </li>
+<li> Kakao Enterprise SW Academy <sub> 2023.09 - 2024.02 </sub>  </li>
 <li> LET Speech Club <sub> 2018.01 - 2019.01 </sub> </li>
 <li> Online MoGakCo Study <sub> 2024.02 - NOW </sub> </li>
 </p>
@@ -59,7 +59,7 @@
 
 ## :briefcase: Experience
 <p>
-  <li> Woori FIS / SW Engineer <sub> 2024.05 - </sub>  </li>
+<li> Woori FIS / SW Engineer <sub> 2024.05 - </sub>  </li>
 <li> Syworks / Web Developer <sub> 2021.08 - 2023.06 </sub>  </li>
 <li> B2en / Web Developer <sub> 2020.08 - 2020.12 </sub>  </li>
 </p>
